@@ -1,12 +1,7 @@
-*.exe
-*.pdb
-*.spec
+# exec files and cargo.lock files:
+*.out
+*.lock
 
+# cache and build folders:
 __pycache__
-
-error.txt
-main.txt
-plot1.pdf
-
-build
-.vscode
+/target
