@@ -1,19 +1,12 @@
-# computer_calculation
+# Computer Logic Helper (CLH)
 
-## Структура цього репозиторію
+**Author**: Davydchuk Artem
 
-Існують всього 3 основні гілки: main, program_branch та site_branch.
+**Stable version**: None
 
-1. main - являється основною гілкою, основна задача якої брати початок для спеціалізованих гілок program_branch та site_branch
-2. program_branch - спеціалізована гілка, на якій розміщений суто код для console та gui програм.
-3. site_branch - спеціалізована гілка, на якій розміщений суто код для сайту.
+Branches:
 
-Кожна гілка матиме свій унікальний файл .md, яка буде допомагати визначити, на якій гілці ви зараз знаходитесь.
-
-Блок-схема структури репозиторія:
-
-![Моє зображення](structure.png)
-
-Також можна ознайомитись з ліцензією:
+- ```main``` for stable versions;
+- ```develop``` for develop new;
 
 [LICENSE](LICENSE)
